@@ -1,1 +1,1 @@
-Agradecimientos a mi compañero RZ, con quien realicé este trabajo.
+Agradecimientos a mi compañero RZ, con quien trabajé en este proyecto.
